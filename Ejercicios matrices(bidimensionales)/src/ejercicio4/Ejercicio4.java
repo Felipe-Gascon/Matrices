@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio4 {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		// crear y cargar una tabla de tamaño 3x3 y trasponerla
 		Scanner sc = new Scanner (System.in);

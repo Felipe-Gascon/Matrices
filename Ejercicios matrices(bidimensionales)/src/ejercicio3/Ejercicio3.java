@@ -3,6 +3,7 @@ package ejercicio3;
 import java.util.Scanner;
 
 public class Ejercicio3 {
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		//Crear y cargar dos matrices de tamaño 3x3, sumarlas y mostrar su suma
 		int a[][], b[][], suma[][];
